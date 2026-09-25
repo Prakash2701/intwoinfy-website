@@ -1,13 +1,22 @@
-# Intwoinfy + TheNoddle Static Websites
+# Intwoinfy Unified Website
 
-Two independently deployable responsive static websites.
+One static corporate website for **Intwoinfy**, with **TheNoddle** presented as the company's flagship School & College ERP product.
 
-## Intwoinfy
-Pages: Home, About, Services, Solutions, Portfolio, Careers, Contact.
+## Pages
+- Home
+- About
+- Services
+- Products
+- TheNoddle product page
+- Solutions
+- Portfolio
+- Careers
+- Contact Us
 
-## TheNoddle
-Pages: Home, Features, Modules, For Schools, For Colleges, Pricing, About, Contact.
+## GitHub Pages
+Upload the contents of this folder to a GitHub repository such as `intwoinfy-website` and enable GitHub Pages from `main` / root.
 
-The home page no longer includes the removed “Industries We Serve” or “How We Work / From idea to dependable product” sections.
+For the custom domain, set GitHub Pages custom domain to `intwoinfy.com` and configure the DNS records at your domain provider.
 
-Forms are front-end only and display a success message; connect them to your Spring Boot APIs for production use.
+## Contact form
+The contact form is currently a static demo. Connect its submit handler to your Spring Boot REST API before production.

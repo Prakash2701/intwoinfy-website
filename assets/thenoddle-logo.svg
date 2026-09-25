@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 190" role="img" aria-labelledby="title desc">
+  <title id="title">TheNoddle School &amp; College ERP</title>
+  <desc id="desc">TheNoddle logo with graduation cap, open book and leaf motif.</desc>
+  <defs>
+    <linearGradient id="book" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b63ce"/>
+      <stop offset="1" stop-color="#18a0ff"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" x2="1">
+      <stop offset="0" stop-color="#31b94b"/>
+      <stop offset="1" stop-color="#86d63d"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(18 10)">
+    <path d="M98 6 164 37 98 68 32 37Z" fill="#102c57"/>
+    <path d="M72 55h52v34H72z" rx="6" fill="#102c57"/>
+    <path d="M126 54h18v22h-18z" fill="#0b7cf0"/>
+    <path d="M160 50c15 2 24 12 24 24 0 7-3 12-8 16-7-13-12-24-16-40Z" fill="#149df0"/>
+    <path d="M28 92c16-23 45-34 69-14 15 12 29 34 40 60H31Z" fill="url(#book)"/>
+    <path d="M168 92c-16-23-45-34-69-14-15 12-29 34-40 60h106Z" fill="#0e53a8" opacity=".96"/>
+    <path d="M100 87c-21 5-37 20-46 45 25-2 43-12 54-30 4-7 5-13 5-18-4 0-8 1-13 3Z" fill="url(#leaf)"/>
+    <path d="M100 87c19 3 36 14 48 35-25 2-44-6-56-22-5-7-7-13-7-18 5 0 10 1 15 5Z" fill="#69cf39"/>
+  </g>
+  <g transform="translate(212 35)">
+    <text x="0" y="54" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#102c57">The</text>
+    <text x="132" y="54" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#1676de">Noddle</text>
+    <text x="2" y="98" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" letter-spacing="4" fill="#4e6583">SCHOOL &amp; COLLEGE ERP</text>
+  </g>
+</svg>
